@@ -1,6 +1,6 @@
 Dados do aluno
 
--Primeiro Nome: Victor  
+-Primeiro Nome: Victor
 -Profissão:Estudante
 -Cidade: Piracicaba - SP
 -O que faz nas horas vaga: Estudo programação
